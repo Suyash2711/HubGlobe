@@ -1,7 +1,7 @@
-﻿import React, { useRef } from 'react';
+﻿import React from 'react';
 import './Header.css';
 
-const Header = ({ scrollToAbout }) => {
+const Header = ({ scrollToAbout, handleChatbotClick }) => {
     return (
         <header className="header">
             <div className="header-content">
@@ -10,6 +10,9 @@ const Header = ({ scrollToAbout }) => {
                 <button className="learn-more-btn" onClick={scrollToAbout}>
                     Learn More
                 </button>
+                <div className="chatbot-launcher" onClick={handleChatbotClick}>
+                    <img src="C:\hubglobe\src\Assets\ChatBotIcon.png" alt="Chatbot" />
+                </div>
             </div>
         </header>
     );

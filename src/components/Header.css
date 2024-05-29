@@ -46,9 +46,10 @@
     color: white;
     background-color: transparent;
     border: 2px solid white;
-    padding: 20px 50px;
+    padding: 10px 30px;
     font-size: 20px;
-    border-radius: 0px;
+    width: 400px;
+    width: 300px;
     cursor: pointer;
     transition: background-color 0.3s ease;
     font-weight: bold;
@@ -56,5 +57,16 @@
 .learn-more-btn:hover {
     background-color: white;
     color: black;
+}
+
+.chatbot-launcher {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    cursor: pointer;
+}
+
+.chatbot-launcher img {
+    width: 100px;
 }
 

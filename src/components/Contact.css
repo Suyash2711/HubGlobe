@@ -1,28 +1,45 @@
 ﻿.contact {
     padding: 50px 20px;
     background-color: #f9f9f9;
-    text-align: left;
 }
 
 .container-contact {
-    max-width: 400px;
+    max-width: 1200px;
     margin: 0 auto;
+    text-align: center;
 }
 
-h2 {
+h2, h1 {
     font-size: 2.5em;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.centered-text-container {
+    display: flex;
+    justify-content: left; /* Center horizontally */
     margin-bottom: 20px;
 }
 
-
-p {
+.centered-text {
     font-size: 1.1em;
     line-height: 1.6;
     color: #333;
+    text-align: left; /* Align text to the left */
+    max-width: 600px; /* Optional: to limit the width of the paragraph */
+}
+
+.contact-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-top: 20px;
 }
 
 .contact-details {
-    margin-top: 20px;
+    flex: 1;
+    padding-right: 20px;
+    text-align: left; /* Ensure contact details text aligns left */
 }
 
 .contact-details p {
@@ -45,6 +62,7 @@ p {
 
 .map-container {
     flex: 1;
+    min-width: 400px;
     height: 400px;
-    min-width: 300px;
+    margin-left: 10px;
 }
