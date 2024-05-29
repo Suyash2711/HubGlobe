@@ -1,0 +1,60 @@
+﻿.header {
+    position: relative;
+    background-image: url('../Assets/BackgroundImage.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding: 100px 20px;
+    height: 80vh;
+    width: 96vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden; 
+}
+
+.header::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.6); 
+    z-index: 0; 
+}
+
+.header-content {
+    position: relative;
+    z-index: 1;
+}
+
+.header-content h1 {
+    font-size: 3.5em; 
+    position: relative;
+    top: -20vh;
+}
+.header-content p {
+    font-size: 1.6em;
+    position: relative;
+    top: -15vh;
+    color: white;
+}
+.learn-more-btn {
+    color: white;
+    background-color: transparent;
+    border: 2px solid white;
+    padding: 20px 50px;
+    font-size: 20px;
+    border-radius: 0px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    font-weight: bold;
+}
+.learn-more-btn:hover {
+    background-color: white;
+    color: black;
+}
+
