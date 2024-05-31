@@ -1,5 +1,6 @@
 ﻿import React from 'react';
 import './Header.css';
+import chatIcon from  '../Assets/ChatBotIcon.png'
 
 const Header = ({ scrollToAbout, handleChatbotClick }) => {
     return (
@@ -11,7 +12,7 @@ const Header = ({ scrollToAbout, handleChatbotClick }) => {
                     Learn More
                 </button>
                 <div className="chatbot-launcher" onClick={handleChatbotClick}>
-                    <img src="C:\hubglobe\src\Assets\ChatBotIcon.png" alt="Chatbot" />
+                    <img src={chatIcon} alt="Chatbot" />
                 </div>
             </div>
         </header>
