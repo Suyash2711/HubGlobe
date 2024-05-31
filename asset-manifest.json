@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/HUBGLOBE/static/css/main.cefaac89.css",
-    "main.js": "/HUBGLOBE/static/js/main.2f1c059d.js",
-    "static/js/453.af590407.chunk.js": "/HUBGLOBE/static/js/453.af590407.chunk.js",
-    "static/media/BackgroundImage.jpg": "/HUBGLOBE/static/media/BackgroundImage.80efd5de94bb991be0ab.jpg",
-    "index.html": "/HUBGLOBE/index.html",
-    "main.cefaac89.css.map": "/HUBGLOBE/static/css/main.cefaac89.css.map",
-    "main.2f1c059d.js.map": "/HUBGLOBE/static/js/main.2f1c059d.js.map",
-    "453.af590407.chunk.js.map": "/HUBGLOBE/static/js/453.af590407.chunk.js.map"
+    "main.css": "/HubGlobe/static/css/main.a0b57055.css",
+    "main.js": "/HubGlobe/static/js/main.c877dcc0.js",
+    "static/js/453.af590407.chunk.js": "/HubGlobe/static/js/453.af590407.chunk.js",
+    "static/media/BackgroundImage.jpg": "/HubGlobe/static/media/BackgroundImage.80efd5de94bb991be0ab.jpg",
+    "index.html": "/HubGlobe/index.html",
+    "main.a0b57055.css.map": "/HubGlobe/static/css/main.a0b57055.css.map",
+    "main.c877dcc0.js.map": "/HubGlobe/static/js/main.c877dcc0.js.map",
+    "453.af590407.chunk.js.map": "/HubGlobe/static/js/453.af590407.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cefaac89.css",
-    "static/js/main.2f1c059d.js"
+    "static/css/main.a0b57055.css",
+    "static/js/main.c877dcc0.js"
   ]
 }
