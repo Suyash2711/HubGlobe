@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/HubGlobe/static/css/main.a0b57055.css",
-    "main.js": "/HubGlobe/static/js/main.c877dcc0.js",
+    "main.js": "/HubGlobe/static/js/main.35efe90c.js",
     "static/js/453.af590407.chunk.js": "/HubGlobe/static/js/453.af590407.chunk.js",
     "static/media/BackgroundImage.jpg": "/HubGlobe/static/media/BackgroundImage.80efd5de94bb991be0ab.jpg",
+    "static/media/ChatBotIcon.png": "/HubGlobe/static/media/ChatBotIcon.af5f4990eb83504832b6.png",
     "index.html": "/HubGlobe/index.html",
     "main.a0b57055.css.map": "/HubGlobe/static/css/main.a0b57055.css.map",
-    "main.c877dcc0.js.map": "/HubGlobe/static/js/main.c877dcc0.js.map",
+    "main.35efe90c.js.map": "/HubGlobe/static/js/main.35efe90c.js.map",
     "453.af590407.chunk.js.map": "/HubGlobe/static/js/453.af590407.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a0b57055.css",
-    "static/js/main.c877dcc0.js"
+    "static/js/main.35efe90c.js"
   ]
 }
