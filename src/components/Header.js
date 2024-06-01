@@ -12,7 +12,7 @@ const Header = ({ scrollToAbout, handleChatbotClick }) => {
                     Learn More
                 </button>
                 <div className="chatbot-launcher" onClick={handleChatbotClick}>
-                    <img src={chatIcon} alt="Chatbot" /> 
+                    <img src={chatIcon} alt="Chatbot" />
                 </div>
             </div>
         </header>
