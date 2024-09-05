@@ -17,8 +17,8 @@ const Contact = () => {
                     </div>
                     <div className="map-container">
                         <iframe
-                            title="Financial Park Labuan"
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3944.3308411916365!2d115.2408797141473!3d5.27600373729968!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3223bd01e15d58c1%3A0x4f2b2e79e8d7886e!2sFinancial%20Park%20Labuan!5e0!3m2!1sen!2smy!4v1688038212345!5m2!1sen!2smy"
+                            title="Skrit Creations Pte Ltd "
+                            src="https://maps.app.goo.gl/XbzkuxQUX8tnYY3u8"
                             width="100%"
                             height="400"
                             allowFullScreen=""
